@@ -1,0 +1,8 @@
+Tuxedo                                   RM  200.00
+Dress shirt                              RM  130.00
+Leather belt                             RM  120.00
+Striped tie                              RM  85.00
+Bussiness suit                           RM  320.00
+Pencil skirt                             RM  140.00
+Evening gown                             RM  210.00
+Sheath dress                             RM  140.00

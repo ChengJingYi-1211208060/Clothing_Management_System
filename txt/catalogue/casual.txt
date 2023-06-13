@@ -1,0 +1,9 @@
+Sweater                                  RM  110.00
+Polo shirt                               RM  35.00
+Tank top                                 RM  15.00
+T-shirt                                  RM  55.00
+Sneakers                                 RM  45.00
+Jeans                                    RM  80.00
+Hoodie                                   RM  65.00
+Cargo shorts                             RM  25.00
+Leggings                                 RM  30.00
